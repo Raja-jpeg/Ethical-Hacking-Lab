@@ -1,3 +1,6 @@
+# Privilege Escalation with HackingBuddyGPT
+
+
 This is a proof-of-concept demonstration of Linux privilege escalation to reproduce the HackingBuddyGPT results using the Metasploitable 2 virtual machine as the target.
 
 In my testing with the Kali Linux VM, I executed the wintermute tool, which displayed the available commands for the LinuxPrivesc agent. The output included the sequence of commands issued and their respective results, such as user identity and sudo privileges.
